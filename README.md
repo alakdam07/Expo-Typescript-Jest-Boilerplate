@@ -3,7 +3,7 @@
 ![alt text](https://img.shields.io/badge/Jest-%5E26.6.3-red)
 ![alt text](https://img.shields.io/badge/Github-action-brightgreen)
 ![alt text](https://img.shields.io/badge/Eslint-%5E7.2.0-orange)
-![alt text](https://img.shields.io/badge/Husky-%5E4.3.8-yellow)
+![alt text](https://img.shields.io/badge/Husky-%5E6.0.0-yellow)
 
 
 # expo-typescript-starter
