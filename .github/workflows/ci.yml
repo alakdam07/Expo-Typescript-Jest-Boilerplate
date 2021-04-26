@@ -1,0 +1,20 @@
+name: React-native CI
+
+on:
+  push:
+    branches: [master]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [14.x]
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install Dependencies
+        run: npm i
+
+      - name: Test
+        run: npm run test
