@@ -25,7 +25,7 @@ Expo + Typescript starter template
 
 - `nvm use`
 - `npm install`
-- `npm upgrade --save` to update the app
+- `npm upgrade --save` or `npx npm-check-updates -u && npm i` to update the app
 
 # Development
 
